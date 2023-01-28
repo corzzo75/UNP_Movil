@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833698610844",
+    "project_id": "flutter-movil-corzo",
+    "storage_bucket": "flutter-movil-corzo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833698610844:android:d2386a679f2a96d5e6b759",
+        "android_client_info": {
+          "package_name": "com.example.unp.movil_flutter_trab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833698610844-tsqgi18cjn0iuak3leanfvm2phm4k2he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo5DQdJjVQOu22z4Fl6cw48-PLtuIQJh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833698610844-tsqgi18cjn0iuak3leanfvm2phm4k2he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
